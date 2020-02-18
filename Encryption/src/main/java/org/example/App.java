@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 
     // Added: Saving the word and its encrypted version in a hashmap. For no reason :)
-    // Or maybe so that in case the same word is entered, the algorithm does not need
+    // Or maybe so that in case the same word was already entered before, the algorithm does not need
     // to be run and the correct key can be called.
 
 public class App 
