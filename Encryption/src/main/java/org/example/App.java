@@ -23,8 +23,16 @@ public class App
             newWord += c;
 
         }
-        System.out.print(newWord);
+        System.out.println("Encrypted Message: " + newWord);
 
-        //Decryption Section
+        String originalWord ="";
+        for (int j = 0; j < newWord.length(); j++)
+        {
+            int letter = (int)newWord.charAt(j);
+            letter--;
+            char character = (char)letter;
+            originalWord += character;
+        }
+        System.out.println("Original Message: " + originalWord);
     }
 }
