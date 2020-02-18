@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6c18800-8147-40a6-9c65-cd28041d7167" name="Default Changelist" comment="" />
+    <list default="true" id="a6c18800-8147-40a6-9c65-cd28041d7167" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +13,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -21,6 +28,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1XwZPhiS5SFKXjyOY11xov2VPnh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +36,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -83,21 +93,29 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="481" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1581959235752" />
-    <state width="1481" height="210" key="GridCell.Tab.0.bottom" timestamp="1581961878886">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="531" y="251" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582064762215">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="531" y="251" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1582064762215" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1582066619112">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582066619112" />
     <state width="1481" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1581961878886" />
-    <state width="1481" height="210" key="GridCell.Tab.0.center" timestamp="1581961878885">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1582066619112">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582066619112" />
     <state width="1481" height="210" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1581961878885" />
-    <state width="1481" height="210" key="GridCell.Tab.0.left" timestamp="1581961878885">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1582066619112">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582066619112" />
     <state width="1481" height="210" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1581961878885" />
-    <state width="1481" height="210" key="GridCell.Tab.0.right" timestamp="1581961878886">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1582066619112">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582066619112" />
     <state width="1481" height="210" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1581961878886" />
     <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1581961821869">
       <screen x="0" y="0" width="1536" height="864" />
